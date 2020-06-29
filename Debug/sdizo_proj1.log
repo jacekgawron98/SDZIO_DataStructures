@@ -1,0 +1,9 @@
+﻿  BSTTree.cpp
+c:\users\gawro\desktop\sdizo_proj1\sdizo_proj1\bsttree.cpp(251): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  Table.cpp
+c:\users\gawro\desktop\sdizo_proj1\sdizo_proj1\table.cpp(1): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+  heap.cpp
+  list.cpp
+  Generowanie kodu...
+c:\users\gawro\desktop\sdizo_proj1\sdizo_proj1\list.cpp(313): warning C4715: "List::operator[]”: niewszystkie ścieżki kodu zwracają wartość
+  sdizo_proj1.vcxproj -> C:\Users\gawro\Desktop\sdizo_proj1\Debug\sdizo_proj1.exe

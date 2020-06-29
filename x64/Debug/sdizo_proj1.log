@@ -1,0 +1,17 @@
+﻿  heap.cpp
+  helperFunctions.cpp
+  list.cpp
+  main.cpp
+c:\studia archiwum\sdizo\sdizo_proj1\sdizo_proj1\main.cpp(212): warning C4101: "index": lokalna zmienna, do której nie istnieje odwołanie
+c:\studia archiwum\sdizo\sdizo_proj1\sdizo_proj1\main.cpp(235): warning C4101: "maxSize": lokalna zmienna, do której nie istnieje odwołanie
+c:\studia archiwum\sdizo\sdizo_proj1\sdizo_proj1\main.cpp(293): warning C4101: "index": lokalna zmienna, do której nie istnieje odwołanie
+c:\studia archiwum\sdizo\sdizo_proj1\sdizo_proj1\main.cpp(316): warning C4101: "maxSize": lokalna zmienna, do której nie istnieje odwołanie
+c:\studia archiwum\sdizo\sdizo_proj1\sdizo_proj1\main.cpp(351): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  BSTTree.cpp
+c:\studia archiwum\sdizo\sdizo_proj1\sdizo_proj1\bsttree.cpp(251): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  Table.cpp
+c:\studia archiwum\sdizo\sdizo_proj1\sdizo_proj1\table.cpp(1): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+  Generowanie kodu...
+c:\studia archiwum\sdizo\sdizo_proj1\sdizo_proj1\list.cpp(313): warning C4715: "List::operator[]”: niewszystkie ścieżki kodu zwracają wartość
+  LINK : nie znaleziono elementu C:\studia archiwum\sdizo\sdizo_proj1\x64\Debug\sdizo_proj1.exe ani nie został on skompilowany podczas ostatniego konsolidowania przyrostowego; zostanie wykonana pełna konsolidacja
+  sdizo_proj1.vcxproj -> C:\studia archiwum\sdizo\sdizo_proj1\x64\Debug\sdizo_proj1.exe
